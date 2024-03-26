@@ -1,0 +1,15 @@
+SECRET_KEY=
+
+#posgresql
+NAME=
+USER=
+PASSWORD=
+PORT=
+HOST=
+
+#telegram
+TELEGRAM_BOT=
+
+#celery
+CELERY_BROKER_URL=
+CELERY_RESULT_BACKEND=
